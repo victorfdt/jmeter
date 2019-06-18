@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1560501288452,458,ISAAC website,200,200,Thread Group 1-1,text,true,,37633,232,1,1,93,0,61
