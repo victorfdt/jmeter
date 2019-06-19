@@ -1,2 +1,31 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
-1560501288452,458,ISAAC website,200,200,Thread Group 1-1,text,true,,37633,232,1,1,93,0,61
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1560931621009,124,ISAAC website,200,200,Thread Group 1-1,text,true,,37633,232,1,1,https://www.isaac.nl/,20,0,10
+1560931621009,20,ISAAC website-0,301,Moved Permanently,Thread Group 1-1,text,true,,475,116,1,1,http://www.isaac.nl/,20,0,10
+1560931621029,104,ISAAC website-1,200,200,Thread Group 1-1,text,true,,37158,116,1,1,https://www.isaac.nl/,57,0,40
+1560931621208,124,ISAAC website,200,200,Thread Group 1-2,text,true,,37633,232,1,1,https://www.isaac.nl/,20,0,10
+1560931621208,20,ISAAC website-0,301,Moved Permanently,Thread Group 1-2,text,true,,475,116,1,1,http://www.isaac.nl/,20,0,10
+1560931621229,103,ISAAC website-1,200,200,Thread Group 1-2,text,true,,37158,116,1,1,https://www.isaac.nl/,53,0,38
+1560931621409,119,ISAAC website,200,200,Thread Group 1-3,text,true,,37633,232,1,1,https://www.isaac.nl/,20,0,10
+1560931621409,20,ISAAC website-0,301,Moved Permanently,Thread Group 1-3,text,true,,475,116,1,1,http://www.isaac.nl/,20,0,10
+1560931621430,98,ISAAC website-1,200,200,Thread Group 1-3,text,true,,37158,116,1,1,https://www.isaac.nl/,52,0,37
+1560931621608,132,ISAAC website,200,200,Thread Group 1-4,text,true,,37633,232,1,1,https://www.isaac.nl/,21,0,11
+1560931621608,21,ISAAC website-0,301,Moved Permanently,Thread Group 1-4,text,true,,475,116,1,1,http://www.isaac.nl/,21,0,11
+1560931621629,111,ISAAC website-1,200,200,Thread Group 1-4,text,true,,37158,116,1,1,https://www.isaac.nl/,51,0,37
+1560931621807,119,ISAAC website,200,200,Thread Group 1-5,text,true,,37633,232,1,1,https://www.isaac.nl/,21,0,11
+1560931621807,21,ISAAC website-0,301,Moved Permanently,Thread Group 1-5,text,true,,475,116,1,1,http://www.isaac.nl/,21,0,11
+1560931621829,97,ISAAC website-1,200,200,Thread Group 1-5,text,true,,37158,116,1,1,https://www.isaac.nl/,52,0,38
+1560931644822,131,ISAAC website,200,200,Thread Group 1-1,text,true,,37633,232,1,1,https://www.isaac.nl/,30,0,18
+1560931644822,30,ISAAC website-0,301,Moved Permanently,Thread Group 1-1,text,true,,475,116,1,1,http://www.isaac.nl/,30,0,18
+1560931644853,100,ISAAC website-1,200,200,Thread Group 1-1,text,true,,37158,116,1,1,https://www.isaac.nl/,57,0,41
+1560931645022,159,ISAAC website,200,200,Thread Group 1-2,text,true,,37633,232,1,1,https://www.isaac.nl/,21,0,10
+1560931645022,21,ISAAC website-0,301,Moved Permanently,Thread Group 1-2,text,true,,475,116,1,1,http://www.isaac.nl/,21,0,10
+1560931645043,138,ISAAC website-1,200,200,Thread Group 1-2,text,true,,37158,116,1,1,https://www.isaac.nl/,51,0,37
+1560931645223,119,ISAAC website,200,200,Thread Group 1-3,text,true,,37633,232,1,1,https://www.isaac.nl/,21,0,11
+1560931645223,21,ISAAC website-0,301,Moved Permanently,Thread Group 1-3,text,true,,475,116,1,1,http://www.isaac.nl/,21,0,11
+1560931645245,97,ISAAC website-1,200,200,Thread Group 1-3,text,true,,37158,116,1,1,https://www.isaac.nl/,51,0,37
+1560931645423,118,ISAAC website,200,200,Thread Group 1-4,text,true,,37633,232,1,1,https://www.isaac.nl/,21,0,11
+1560931645423,21,ISAAC website-0,301,Moved Permanently,Thread Group 1-4,text,true,,475,116,1,1,http://www.isaac.nl/,21,0,11
+1560931645445,96,ISAAC website-1,200,200,Thread Group 1-4,text,true,,37158,116,1,1,https://www.isaac.nl/,51,0,36
+1560931645622,117,ISAAC website,200,200,Thread Group 1-5,text,true,,37633,232,1,1,https://www.isaac.nl/,21,0,10
+1560931645622,21,ISAAC website-0,301,Moved Permanently,Thread Group 1-5,text,true,,475,116,1,1,http://www.isaac.nl/,21,0,10
+1560931645643,96,ISAAC website-1,200,200,Thread Group 1-5,text,true,,37158,116,1,1,https://www.isaac.nl/,51,0,37
